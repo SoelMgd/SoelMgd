@@ -1,6 +1,6 @@
-# Hi, I'm Soël 👋
+# Hi 👋
 
-I’m an **AI/ML Engineer**!
+I’m Soël, an **AI/ML Engineer**!
 
 ### 💡 My Expertise:
 
