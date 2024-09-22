@@ -1,6 +1,6 @@
 # Hi, I'm Soël 👋
 
-I’m an **AI/ML Engineer** and a tech and innovation enthusiast!
+I’m an **AI/ML Engineer**!
 
 ### Expertise:
 
