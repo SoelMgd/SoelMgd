@@ -14,12 +14,14 @@ I’m an **AI/ML Engineer** and a tech and innovation enthusiast!
 
 ## 🛠️ Technologies I Work With
 
-### ML/DL Frameworks
+### AI/ML Frameworks
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF6F20?style=flat&logo=Huggingface&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FDDA24?style=flat&logo=Huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-4D57E7?style=flat&logo=langchain&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FF6F20?style=flat&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral-5B4B99?style=flat&logoColor=white)
+
 
 
 ### Cloud & DevOps
