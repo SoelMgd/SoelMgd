@@ -2,7 +2,7 @@
 
 I’m Soël, an **AI/ML Engineer**!
 
-### 💡 My Expertise:
+## 💡 My Expertise
 
 - **Machine Learning & AI**: Deep Learning, NLP, Computer Vision, LLM, Time Series
 - **Programming**: Python, Java, C, SQL
