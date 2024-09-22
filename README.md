@@ -2,7 +2,7 @@
 
 I’m an **AI/ML Engineer**!
 
-### Expertise:
+### 💡 My Expertise:
 
 - **Machine Learning & AI**: Deep Learning, NLP, Computer Vision, LLM, Time Series
 - **Programming**: Python, Java, C, SQL
