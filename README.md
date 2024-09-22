@@ -19,6 +19,12 @@ I’m Soël, an **AI/ML Engineer**!
 | Cloud & DevOps | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) |
 | Databases      | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) |
 
+## 📂 Some Projects
+
+- **[AWS_RAG_Evaluation_Toolkit](https://github.com/SoelMgd/AWS_RAG_Evaluation_Toolkit)**: Toolkit to evaluate RAG built with llama_index on AWS.
+- **[Poker Bot](https://github.com/JulienDelavande/MistralBluff)**: Poker bot using Mistral LLM Finetuned.
+
+
 
 ## 🤝 Let’s Connect
 
