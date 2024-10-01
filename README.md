@@ -22,7 +22,7 @@ I’m Soël, an **AI/ML Engineer**!
 ## 📂 Some Projects
 
 - **[AWS_RAG_Evaluation_Toolkit](https://github.com/SoelMgd/AWS_RAG_Evaluation_Toolkit)**: Toolkit to evaluate RAG built with llama_index on AWS.
-- **[Recommender Systems](https://github.com/SoelMgd/Scalable_Recommender_Systems)**Scalable Recommender Systems Pipelines for large E-Commerce data using Nvidia Merlin.
+- **[Recommender Systems](https://github.com/SoelMgd/Scalable_Recommender_Systems)**:Scalable Recommender Systems Pipelines for large E-Commerce data using Nvidia Merlin.
 - **[Poker Bot](https://github.com/JulienDelavande/MistralBluff)**: Poker bot using Mistral LLM Finetuned.
 
 
