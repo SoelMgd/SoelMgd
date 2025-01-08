@@ -1,14 +1,8 @@
 # Hi 👋
 
-I’m Soël, an **AI/ML Engineer**!
+I’m, an **AI/ML Engineer**!
 
-## 💡 My Expertise
 
-- **Machine Learning & AI**: Deep Learning, NLP, Computer Vision, LLM, Time Series
-- **Programming**: Python, Java, C, SQL
-- **Data Engineering**: Data Pipelines, ETL
-- **MLOps & AIOps**: Docker, Kubernetes
-- **Cloud Integrations**: AWS, Azure
 
 
 ## 🛠️ My stack
@@ -25,8 +19,3 @@ I’m Soël, an **AI/ML Engineer**!
 - **[Recommender Systems](https://github.com/SoelMgd/Scalable_Recommender_Systems)**: Scalable Recommender Systems Pipelines for large E-Commerce data using Nvidia Merlin.
 - **[Poker Bot](https://github.com/JulienDelavande/MistralBluff)**: Poker bot using Mistral LLM Finetuned.
 
-
-
-## 🤝 Let’s Connect
-
-I'm open to collaborating on AI/ML projects or discussing innovative ideas. Feel free to reach out!
