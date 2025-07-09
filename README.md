@@ -15,5 +15,6 @@ I’m, an **ML Engineer**!
 
 - **[Poker Bot](https://github.com/JulienDelavande/MistralBluff)**: Poker bot using Mistral LLM Finetuned.
 - **[Poker Bot_v2](https://github.com/SoelMgd/Poker_Transformers)**: Updated version with 135M model parameters
+- **[MCP Agentic Red Team](https://github.com/SoelMgd/MCP_Red_Team_Agent)**: Teams of agentic hackers to find and exploit MCP vulnerabilities.
 - **[Bayesian ML](https://github.com/SoelMgd/Bayesian_Neural_Networks)**: Bayesian ML with HMC (Hamiltonian Monte Carlo) in pytorch.
 - **[AWS_RAG_Evaluation_Toolkit](https://github.com/SoelMgd/AWS_RAG_Evaluation_Toolkit)**: Toolkit to evaluate RAG built with llama_index on AWS.
